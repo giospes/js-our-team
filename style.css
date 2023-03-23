@@ -1,0 +1,8 @@
+.gs-card{
+    width: calc((100% / 3) - 3rem);
+}
+
+.gs-card img{
+    object-fit: cover;
+    object-position: top;
+}
